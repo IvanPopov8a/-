@@ -17,7 +17,6 @@ int main() {
             MAX = br;
         }
     }
-    printf("Nai golqmoto chislo e: %d\n", MAX);
+    printf("pepi e gay: %d\n", MAX);
     return 0;
 }
- hellooooogit 
