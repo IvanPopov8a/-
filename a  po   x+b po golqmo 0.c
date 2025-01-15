@@ -11,7 +11,7 @@ if(a==0){
         printf("Vsqko chislo e reshenie");
     }
     else
-        printf("NQma reshenie");
+        printf("Ti si tup pro max");
 
 }else if(a>0){
     x=-b/a;
