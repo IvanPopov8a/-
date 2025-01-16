@@ -18,6 +18,6 @@ int main() {
         }
     }
     printf("Nai golqmoto chislo e: %d\n", MAX);
+    printf("Nqmash 5090Ti");
     return 0;
 }
- hellooooogit 
