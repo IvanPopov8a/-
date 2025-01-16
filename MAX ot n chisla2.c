@@ -17,6 +17,11 @@ int main() {
             MAX = br;
         }
     }
+<<<<<<< HEAD
     printf("pepi e gay: %d\n", MAX);
+=======
+    printf("Nai golqmoto chislo e: %d\n", MAX);
+    printf("Nqmash 5090Ti");
+>>>>>>> urok
     return 0;
 }
